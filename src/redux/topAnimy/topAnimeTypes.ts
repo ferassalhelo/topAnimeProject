@@ -1,0 +1,5 @@
+// top products types
+export const GET_TOP_ANIME_START = "GET_TOP_ANIME_STAR";
+export const GET_TOP_ANIME_SUCCESS = "GET_TOP_ANIME_SUCCESS";
+export const GET_TOP_ANIME_FAILD = "GET_TOP_ANIME_FAILD";
+export const GET_TOP_ANIME_END = "GET_TOP_ANIME_END";
